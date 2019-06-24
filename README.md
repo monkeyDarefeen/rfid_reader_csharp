@@ -6,7 +6,7 @@ Dot Net 4.5
 RFID Driver
 
 
-This project is to show developers how to use RFID in C# WPF Form. 
+This project is to show developers how to Scan RFID in C# WPF Form. And use it in your program.
 
 You can use the project files to create your own program. This files contains only a few lines of code to show the rfid UID and ATR in WPF Form. 
 Download the zip, open it in Visual Studio, Under WPFApp2 run mainwindow.xaml
