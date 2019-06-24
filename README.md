@@ -13,4 +13,6 @@ Download the zip, open it in Visual Studio, Under WPFApp2 run mainwindow.xaml
 
 
 
-Once you run the program the name of the card reader should be shown in the top left corner. Remember to install the RFid Scanner driver. If any problem occurs let me know : arefeen1404@gmail.com
+Once you run the program the name of the card reader should be shown in the top left corner.
+Place your card on the scanner and click get button to get the data.
+Remember to install the RFid Scanner driver. If any problem occurs let me know : arefeen1404@gmail.com
