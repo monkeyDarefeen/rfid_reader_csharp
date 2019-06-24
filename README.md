@@ -1,4 +1,6 @@
 # rfid_reader_csharp
+#rfid reader C#
+#rfid scanner C#
 
 Requirenments:
 Dot Net 4.5
