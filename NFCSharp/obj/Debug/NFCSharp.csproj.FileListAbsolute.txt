@@ -1,0 +1,32 @@
+C:\Users\Rid\Downloads\nfcsharp\sourceCode\trunk\NFCSharp\bin\Debug\NFCSharp.dll
+C:\Users\Rid\Downloads\nfcsharp\sourceCode\trunk\NFCSharp\bin\Debug\NFCSharp.pdb
+C:\Users\Rid\Downloads\nfcsharp\sourceCode\trunk\NFCSharp\bin\Debug\NdefLibrary.dll
+C:\Users\Rid\Downloads\nfcsharp\sourceCode\trunk\NFCSharp\obj\Debug\NFCSharp.csprojAssemblyReference.cache
+C:\Users\Rid\Downloads\nfcsharp\sourceCode\trunk\NFCSharp\obj\Debug\NFCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rid\Downloads\nfcsharp\sourceCode\trunk\NFCSharp\obj\Debug\NFCSharp.csproj.CopyComplete
+C:\Users\Rid\Downloads\nfcsharp\sourceCode\trunk\NFCSharp\obj\Debug\NFCSharp.dll
+C:\Users\Rid\Downloads\nfcsharp\sourceCode\trunk\NFCSharp\obj\Debug\NFCSharp.pdb
+C:\Users\Rid\source\repos\WpfApp1\NFCSharp\bin\Debug\NFCSharp.dll
+C:\Users\Rid\source\repos\WpfApp1\NFCSharp\bin\Debug\NFCSharp.pdb
+C:\Users\Rid\source\repos\WpfApp1\NFCSharp\bin\Debug\NdefLibrary.dll
+C:\Users\Rid\source\repos\WpfApp1\NFCSharp\obj\Debug\NFCSharp.csprojAssemblyReference.cache
+C:\Users\Rid\source\repos\WpfApp1\NFCSharp\obj\Debug\NFCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rid\source\repos\WpfApp1\NFCSharp\obj\Debug\NFCSharp.csproj.CopyComplete
+C:\Users\Rid\source\repos\WpfApp1\NFCSharp\obj\Debug\NFCSharp.dll
+C:\Users\Rid\source\repos\WpfApp1\NFCSharp\obj\Debug\NFCSharp.pdb
+C:\Users\Rid\source\repos\Attendance v1.0\NFCSharp\bin\Debug\NFCSharp.dll
+C:\Users\Rid\source\repos\Attendance v1.0\NFCSharp\bin\Debug\NFCSharp.pdb
+C:\Users\Rid\source\repos\Attendance v1.0\NFCSharp\bin\Debug\NdefLibrary.dll
+C:\Users\Rid\source\repos\Attendance v1.0\NFCSharp\obj\Debug\NFCSharp.csprojAssemblyReference.cache
+C:\Users\Rid\source\repos\Attendance v1.0\NFCSharp\obj\Debug\NFCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rid\source\repos\Attendance v1.0\NFCSharp\obj\Debug\NFCSharp.csproj.CopyComplete
+C:\Users\Rid\source\repos\Attendance v1.0\NFCSharp\obj\Debug\NFCSharp.dll
+C:\Users\Rid\source\repos\Attendance v1.0\NFCSharp\obj\Debug\NFCSharp.pdb
+C:\Users\Rid\source\repos\WpfApp2\NFCSharp\bin\Debug\NFCSharp.dll
+C:\Users\Rid\source\repos\WpfApp2\NFCSharp\bin\Debug\NFCSharp.pdb
+C:\Users\Rid\source\repos\WpfApp2\NFCSharp\bin\Debug\NdefLibrary.dll
+C:\Users\Rid\source\repos\WpfApp2\NFCSharp\obj\Debug\NFCSharp.csprojAssemblyReference.cache
+C:\Users\Rid\source\repos\WpfApp2\NFCSharp\obj\Debug\NFCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rid\source\repos\WpfApp2\NFCSharp\obj\Debug\NFCSharp.csproj.CopyComplete
+C:\Users\Rid\source\repos\WpfApp2\NFCSharp\obj\Debug\NFCSharp.dll
+C:\Users\Rid\source\repos\WpfApp2\NFCSharp\obj\Debug\NFCSharp.pdb
